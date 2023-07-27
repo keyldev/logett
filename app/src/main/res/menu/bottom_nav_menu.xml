@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/locations"
+        android:icon="@drawable/ic_outline_map"
+        android:title="Места"
+        />
+    <item
+        android:id="@+id/placeholder"
+        android:title=""/>
+<!--    <item-->
+<!--        android:id="@+id/my_location"-->
+<!--        android:icon="@drawable/ic_outline_location_on_24"-->
+<!--        android:title="Местоположение"/>-->
+    <item
+        android:id="@+id/account"
+        android:icon="@drawable/ic_account_user"
+        android:title="Аккаунт"/>
+
+</menu>
