@@ -1,0 +1,1 @@
+The usual operating time without Material 3.
